@@ -1,0 +1,8 @@
+.table-header-wrapper {
+  cursor: pointer;
+}
+
+.table-header-triangle {
+  float: right;
+  margin-right: 0px;
+}
